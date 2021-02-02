@@ -1,0 +1,11 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr) );
+    grid-gap: 20px;
+    padding: 2rem 10rem;
+    margin-top: 10rem;
+}
+
+h1{
+    color: white;
+}
